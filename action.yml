@@ -69,6 +69,7 @@ runs:
       if: inputs.without-checkout == 'false'
       with:
         fetch-depth: 0
+        submodules: recursive
 
     - uses: actions/setup-java@v3
       with:
