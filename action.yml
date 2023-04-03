@@ -1,4 +1,4 @@
-name: Deploy - Publish Javadoc
+name: SOR Deploy/Publish JavaDoc
 description: "Automatically generate your JavaDoc and publish it to GitHub Page."
 branding:
   icon: "book-open"
